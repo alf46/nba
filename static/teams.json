@@ -1,0 +1,282 @@
+[
+    {
+        "conference": "East",
+        "div": [
+            {
+                "division": "Southeast",
+                "teams": [
+                    {
+                        "id": "1610612737",
+                        "code": "ATL",
+                        "name": "hawks",
+                        "description": "Atlanta Hawks",
+                        "conference": "East",
+                        "division": "Southeast"
+                    },
+                    {
+                        "id": "1610612748",
+                        "code": "MIA",
+                        "name": "heat",
+                        "description": "Miami Heat",
+                        "conference": "East",
+                        "division": "Southeast"
+                    },
+                    {
+                        "id": "1610612753",
+                        "code": "ORL",
+                        "name": "magic",
+                        "description": "Orlando Magic",
+                        "conference": "East",
+                        "division": "Southeast"
+                    },
+                    {
+                        "id": "1610612764",
+                        "code": "WAS",
+                        "name": "wizards",
+                        "description": "Washington Wizards",
+                        "conference": "East",
+                        "division": "Southeast"
+                    },
+                    {
+                        "id": "1610612766",
+                        "code": "CHA",
+                        "name": "hornets",
+                        "description": "Charlotte Hornets",
+                        "conference": "East",
+                        "division": "Southeast"
+                    }
+                ]
+            },
+            {
+                "division": "Atlantic",
+                "teams": [
+                    {
+                        "id": "1610612738",
+                        "code": "BOS",
+                        "name": "celtics",
+                        "description": "Boston Celtics",
+                        "conference": "East",
+                        "division": "Atlantic"
+                    },
+                    {
+                        "id": "1610612751",
+                        "code": "BKN",
+                        "name": "nets",
+                        "description": "Brooklyn Nets",
+                        "conference": "East",
+                        "division": "Atlantic"
+                    },
+                    {
+                        "id": "1610612752",
+                        "code": "NYK",
+                        "name": "knicks",
+                        "description": "New York Knicks",
+                        "conference": "East",
+                        "division": "Atlantic"
+                    },
+                    {
+                        "id": "1610612755",
+                        "code": "PHI",
+                        "name": "76ers",
+                        "description": "Philadelphia 76ers",
+                        "conference": "East",
+                        "division": "Atlantic"
+                    },
+                    {
+                        "id": "1610612761",
+                        "code": "TOR",
+                        "name": "raptors",
+                        "description": "Toronto Raptors",
+                        "conference": "East",
+                        "division": "Atlantic"
+                    }
+                ]
+            },
+            {
+                "division": "Central",
+                "teams": [
+                    {
+                        "id": "1610612739",
+                        "code": "CLE",
+                        "name": "cavaliers",
+                        "description": "Cleveland Cavaliers",
+                        "conference": "East",
+                        "division": "Central"
+                    },
+                    {
+                        "id": "1610612741",
+                        "code": "CHI",
+                        "name": "bulls",
+                        "description": "Chicago Bulls",
+                        "conference": "East",
+                        "division": "Central"
+                    },
+                    {
+                        "id": "1610612749",
+                        "code": "MIL",
+                        "name": "bucks",
+                        "description": "Milwaukee Bucks",
+                        "conference": "East",
+                        "division": "Central"
+                    },
+                    {
+                        "id": "1610612754",
+                        "code": "IND",
+                        "name": "pacers",
+                        "description": "Indiana Pacers",
+                        "conference": "East",
+                        "division": "Central"
+                    },
+                    {
+                        "id": "1610612765",
+                        "code": "DET",
+                        "name": "pistons",
+                        "description": "Detroit Pistons",
+                        "conference": "East",
+                        "division": "Central"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "conference": "West",
+        "div": [
+            {
+                "division": "Southwest",
+                "teams": [
+                    {
+                        "id": "1610612740",
+                        "code": "NOP",
+                        "name": "pelicans",
+                        "description": "New Orleans Pelicans",
+                        "conference": "West",
+                        "division": "Southwest"
+                    },
+                    {
+                        "id": "1610612742",
+                        "code": "DAL",
+                        "name": "mavericks",
+                        "description": "Dallas Mavericks",
+                        "conference": "West",
+                        "division": "Southwest"
+                    },
+                    {
+                        "id": "1610612745",
+                        "code": "HOU",
+                        "name": "rockets",
+                        "description": "Houston Rockets",
+                        "conference": "West",
+                        "division": "Southwest"
+                    },
+                    {
+                        "id": "1610612759",
+                        "code": "SAS",
+                        "name": "spurs",
+                        "description": "San Antonio Spurs",
+                        "conference": "West",
+                        "division": "Southwest"
+                    },
+                    {
+                        "id": "1610612763",
+                        "code": "MEM",
+                        "name": "grizzlies",
+                        "description": "Memphis Grizzlies",
+                        "conference": "West",
+                        "division": "Southwest"
+                    }
+                ]
+            },
+            {
+                "division": "Northwest",
+                "teams": [
+                    {
+                        "id": "1610612743",
+                        "code": "DEN",
+                        "name": "nuggets",
+                        "description": "Denver Nuggets",
+                        "conference": "West",
+                        "division": "Northwest"
+                    },
+                    {
+                        "id": "1610612750",
+                        "code": "MIN",
+                        "name": "timberwolves",
+                        "description": "Minnesota Timberwolves",
+                        "conference": "West",
+                        "division": "Northwest"
+                    },
+                    {
+                        "id": "1610612757",
+                        "code": "POR",
+                        "name": "trail blazers",
+                        "description": "Portland Trail Blazers",
+                        "conference": "West",
+                        "division": "Northwest"
+                    },
+                    {
+                        "id": "1610612760",
+                        "code": "OKC",
+                        "name": "thunder",
+                        "description": "Oklahoma City Thunder",
+                        "conference": "West",
+                        "division": "Northwest"
+                    },
+                    {
+                        "id": "1610612762",
+                        "code": "UTA",
+                        "name": "jazz",
+                        "description": "Utah Jazz",
+                        "conference": "West",
+                        "division": "Northwest"
+                    }
+                ]
+            },
+            {
+                "division": "Pacific",
+                "teams": [
+                    {
+                        "id": "1610612744",
+                        "code": "GSW",
+                        "name": "warriors",
+                        "description": "Golden State Warriors",
+                        "conference": "West",
+                        "division": "Pacific"
+                    },
+                    {
+                        "id": "1610612746",
+                        "code": "LAC",
+                        "name": "clippers",
+                        "description": "Los Angeles Clippers",
+                        "conference": "West",
+                        "division": "Pacific"
+                    },
+                    {
+                        "id": "1610612747",
+                        "code": "LAL",
+                        "name": "lakers",
+                        "description": "Los Angeles Lakers",
+                        "conference": "West",
+                        "division": "Pacific"
+                    },
+                    {
+                        "id": "1610612756",
+                        "code": "PHX",
+                        "name": "suns",
+                        "description": "Phoenix Suns",
+                        "conference": "West",
+                        "division": "Pacific"
+                    },
+                    {
+                        "id": "1610612758",
+                        "code": "SAC",
+                        "name": "kings",
+                        "description": "Sacramento Kings",
+                        "conference": "West",
+                        "division": "Pacific"
+                    }
+                ]
+            }
+        ]
+    }
+]
